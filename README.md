@@ -1,56 +1,73 @@
-# Hi, I'm Chidambararaja B 👋
+<!-- Animated Header -->
+<h1 align="center">
+  Hi, I'm <span style="color:#4F46E5;">Chidambararaja B</span> 👋
+</h1>
 
-🚀 **Senior Software Developer** | Java | Spring Boot | React | Microservices | DevOps Enthusiast
+<p align="center">
+  🚀 <b>Senior Software Developer</b> | Java | Spring Boot | React | Microservices | DevOps Enthusiast
+</p>
 
----
-
-I'm a driven Software Developer with **5 years of experience** turning complex challenges into clean, secure, and impactful solutions. I specialize in building scalable web and mobile applications using Java, Spring Boot, React, React Native, and Microservices architecture.
-
-🌐 [My Portfolio](http://thechidshow.com) | [LinkedIn](https://www.linkedin.com/in/chidambararajab/) | [GitHub](https://github.com/chidambararajab) | 📧 chidambararaja97@gmail.com
+<p align="center">
+  <a href="http://thechidshow.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-thechidshow.com-purple?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/chidambararajab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/chidambararajab" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack & Skills
 
-- **Frontend**: React, React Native, JavaScript, HTML, CSS, Redux, Saga
-- **Backend**: Java, Spring Boot, Spring Cloud, Microservices, JPA, Hibernate, REST APIs
-- **DevOps**: Docker, Kubernetes
-- **Testing**: Jest, Selenium
-- **Databases**: SQL, NoSQL
+<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,java,spring,docker,kubernetes,git" alt="Tech Icons" height="50" />
 
 ---
 
 ## 💼 Work Experience
 
 **Senior Software Engineer** — *Persistent Systems* (04/2023 - Present)  
-- Built complex UIs and API integrations for a React-based dashboard (Cisco's EUM project)
-- Led state management using Redux & Saga
-- Integrated stack trace handling between React frontend and backend
-- Owned release processes, compliance (SBOM), and vulnerability resolution
+- Developed complex UIs & API integrations (Cisco EUM)
+- Led Redux & Saga implementation
+- Handled stack trace integration (React ↔ Backend)
+- Owned release processes & compliance
 
-**Software Engineer** — *Accubits Technologies Inc* (09/2021 - 04/2023)  
-- Developed Mobile & Admin apps with React & React Native (DBX, BAXE, Seafood7)
-- Implemented chat, Stripe payments, push notifications, image caching
-- Led global state management and optimized performance
-- Conducted code reviews, mentored juniors
+**Software Engineer** — *Accubits Technologies* (09/2021 - 04/2023)  
+- Developed apps with React, React Native (DBX, BAXE, Seafood7)
+- Implemented chat, payments, notifications, image caching
+- Optimized performance & conducted code reviews
 
 **Software Engineer** — *ConnectAll Inc* (09/2020 - 09/2021)  
-- Maintained React + Spring Boot web applications with advanced features (DnD, Modals)
+- Maintained React + Spring Boot applications with advanced features
 - Automated testing with Selenium in Java
 
 ---
 
-## 🏆 Projects
+## ✨ Projects
 
-- **Personal Portfolio**: React.js-based portfolio to showcase my work — [Visit Site](http://thechidshow.com)
-- **PeriodicBond**: Fun, educational mobile game on the periodic table for kids — built using Flutter
+- 🎨 [**Personal Portfolio**](http://thechidshow.com) — React.js-based portfolio showcasing my skills
+- 🧩 **PeriodicBond** — Educational mobile game teaching periodic table for kids (Flutter)
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats & Contributions
 
-**Bachelor of Engineering** — Electronics & Instrumentation  
-*Anand Institute of Higher Technology* (2015 - 2019)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chidambararajab&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chidambararajab&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidambararajab&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 Interests
+
+- ✍️ Writing Tech Blogs  
+- 🏆 Hackathons  
+- 🧩 LeetCode Challenges  
 
 ---
 
@@ -61,12 +78,8 @@ I'm a driven Software Developer with **5 years of experience** turning complex c
 
 ---
 
-## 🎯 Interests
-
-- Writing Tech Blogs
-- Hackathons
-- Solving Problems on LeetCode  
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chidambararajab&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 *Let's connect and build amazing things together!*
