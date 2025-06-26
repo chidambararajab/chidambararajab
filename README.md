@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="http://thechidshow.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-thechidshow.com-purple?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://thechidshow.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-thechidshow.com-purple?style=for-the-badge&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/chidambararajab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/chidambararajab" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
 </p>
