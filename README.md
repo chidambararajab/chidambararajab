@@ -1,10 +1,10 @@
-<!-- Animated Header -->
+<!-- Header with emphasis on Spring Boot -->
 <h1 align="center">
-  Hi, I'm <span style="color:#4F46E5;">Chidambararaja B</span> 👋
+  Hi, I'm <span style="color:#4F46E5;">Chidambararaja B</span> 🚀
 </h1>
 
 <p align="center">
-  🚀 <b>Senior Software Developer</b> | Java | Spring Boot | React | Microservices | DevOps Enthusiast
+  <b>Senior Software Developer | Spring Boot Specialist | Backend-First | Full Stack Enthusiast</b>
 </p>
 
 <p align="center">
@@ -15,66 +15,82 @@
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 💡 About Me
 
-<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,java,spring,docker,kubernetes,git" alt="Tech Icons" height="50" />
+🧑‍💻 Backend-focused developer with **5 years of experience**, passionate about building scalable, secure, and clean software solutions. My expertise lies in:
+
+✅ Spring Boot & Microservices Architecture (Priority 1)  
+✅ Java, REST APIs, JPA, Hibernate, SQL, Docker, Kubernetes  
+✅ React & Frontend Development (Priority 2)  
+✅ Complete DevOps & CI/CD Mindset  
 
 ---
 
-## 💼 Work Experience
+## ⚡ Core Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,java,docker,kubernetes,mysql,react,redux,js,html,css,git" alt="Tech Icons" height="50" />
+</p>
+
+---
+
+## 💼 Professional Experience
 
 **Senior Software Engineer** — *Persistent Systems* (04/2023 - Present)  
-- Developed complex UIs & API integrations (Cisco EUM)
-- Led Redux & Saga implementation
-- Handled stack trace integration (React ↔ Backend)
-- Owned release processes & compliance
+🎯 Leading Spring Boot backend development for processing and storing React application stack traces  
+🎯 Driving release ownership, Software Bill of Materials (SBOM), and compliance handling  
+🎯 Enhancing React-based dashboards with robust state management (Redux, Saga)
 
 **Software Engineer** — *Accubits Technologies* (09/2021 - 04/2023)  
-- Developed apps with React, React Native (DBX, BAXE, Seafood7)
-- Implemented chat, payments, notifications, image caching
-- Optimized performance & conducted code reviews
+🔧 Developed scalable backend services in Java Spring Boot  
+🔧 Integrated APIs for Cryptocurrency Apps, Payment Systems, and Real-Time Notifications  
+🔧 Built Mobile & Admin apps with React & React Native
 
 **Software Engineer** — *ConnectAll Inc* (09/2020 - 09/2021)  
-- Maintained React + Spring Boot applications with advanced features
-- Automated testing with Selenium in Java
+🔨 Maintained enterprise apps with React Frontend & Spring Boot Backend  
+🔨 Developed custom components, global state management, and Selenium automation
 
 ---
 
-## ✨ Projects
+## 🚀 Featured Projects
 
-- 🎨 [**Personal Portfolio**](http://thechidshow.com) — React.js-based portfolio showcasing my skills
-- 🧩 **PeriodicBond** — Educational mobile game teaching periodic table for kids (Flutter)
+- **Backend Stack Trace Processing** — Full-fledged Spring Boot system to process, store, and integrate React stack traces  
+- [**Personal Portfolio**](http://thechidshow.com) — Built using React.js to showcase my expertise  
+- **PeriodicBond** — Mobile puzzle game on periodic table for kids, built with Flutter  
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chidambararajab&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chidambararajab&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chidambararajab&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chidambararajab&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidambararajab&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidambararajab&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
 
-## 🎯 Interests
+## 🛠 Tools & Skills Breakdown
 
-- ✍️ Writing Tech Blogs  
-- 🏆 Hackathons  
-- 🧩 LeetCode Challenges  
+- 🏗 **Spring Boot | Java | REST APIs | Microservices | JPA | Hibernate**  
+- ⚡ **React | Redux | Saga | React Native | Responsive UI Development**  
+- ☁️ **Docker | Kubernetes | CI/CD Pipelines**  
+- 🛡️ **Unit Testing | Selenium | Jest**  
+- 🗄️ **SQL | NoSQL Databases**  
 
 ---
 
-## 🌍 Languages
+## 🎯 Interests & Hobbies
 
-- **English** — Full Professional Proficiency  
-- **Tamil** — Native / Bilingual Proficiency  
+- Technical Blogging & Knowledge Sharing  
+- Hackathons & Problem Solving on LeetCode  
+- Exploring DevOps & Cloud Technologies  
 
 ---
 
@@ -82,4 +98,5 @@
   <img src="https://komarev.com/ghpvc/?username=chidambararajab&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-*Let's connect and build amazing things together!*
+*Focused on Spring Boot Excellence, Building Robust Backends, and Elevating Full Stack Applications.*
+
